@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.angular",
+    "\\.angular\\cache",
+    "\\public",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\task-progress"
+  ],
+  "PreviewInSolutionExplorer": false
+}
